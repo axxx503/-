@@ -1,0 +1,26 @@
+{
+  "game": "over the hill",
+  "engine": "Unity 6000.0.75f1",
+  "files": {
+    "resources.assets": {
+      "rel_path": "over the hill_Data\\resources.assets",
+      "orig_sha256": "168CD3E8894F57E925B5204678F4EEFB5C14A1A12A1335EFF1537DC67B428941",
+      "patched_sha256": "2723CED2EC080B16E524492F11E06FB7F51A185340EDCFC78EA91CA15B83080A"
+    },
+    "ui_assets_all": {
+      "rel_path": "over the hill_Data\\StreamingAssets\\aa\\StandaloneWindows64\\ui_assets_all_2301a0cc01bcb1fde33af05146facb2b.bundle",
+      "orig_sha256": "DEBCD14E01BBC9196B360D022956AE332E7BD107EF5BA1C7522BC0B62A95166C",
+      "patched_sha256": "99641EAFB051DA8EE252C49AC8A0257A1C1CA91000F7FCA9B21BD58BB3E9F4A3"
+    },
+    "loc_strings": {
+      "rel_path": "over the hill_Data\\StreamingAssets\\aa\\StandaloneWindows64\\localization-string-tables-english(en)_assets_all.bundle",
+      "orig_sha256": "688493C81410A6A76A29A2327CEEBD4EB205BA57E9AE230B2E72FA9DEDAAC154",
+      "patched_sha256": "3E824894E07B0E146D9683FF9F87E3007C129529E46B3121324144F94BB70270"
+    },
+    "loc_assets": {
+      "rel_path": "over the hill_Data\\StreamingAssets\\aa\\StandaloneWindows64\\localization-assets-shared_assets_all.bundle",
+      "orig_sha256": "96A13F08876307FC27AB94C63ABDA3605985CC2F77E97FDFE77D7208EA579E7D",
+      "patched_sha256": "17261820A8BC39D0FAF47D99A2383E3299ADF58E03222C1AA4A61F10870CD008"
+    }
+  }
+}
